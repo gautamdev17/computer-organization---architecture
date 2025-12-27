@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LEC1.md",
+                "file": "LEC2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LEC1"
+              "title": "LEC2"
             }
           }
         ]
@@ -185,16 +185,19 @@
   },
   "active": "7c64dbf316699161",
   "lastOpenFiles": [
-    "COA.md",
+    "Screenshot 2025-12-27 at 1.29.48 PM.png",
+    "Screenshot 2025-12-27 at 1.28.30 PM.png",
+    "Screenshot 2025-12-27 at 1.21.52 PM.png",
+    "Screenshot 2025-12-27 at 1.21.40 PM.png",
+    "Screenshot 2025-12-26 at 5.13.32 PM.png",
+    "Screenshot 2025-12-26 at 5.11.53 PM.png",
+    "Screenshot 2025-12-26 at 4.30.26 PM.png",
+    "Screenshot 2025-12-26 at 4.28.55 PM.png",
     "LEC1.md",
+    "COA.md",
     "LEC2.md",
     "Screenshot 2025-12-24 at 12.39.00 AM.png",
     "Screenshot 2025-12-24 at 12.30.54 AM.png",
-    "Screenshot 2025-12-24 at 12.24.03 AM.png",
-    "Screenshot 2025-12-24 at 12.23.42 AM.png",
-    "Screenshot 2025-12-24 at 12.15.40 AM.png",
-    "Screenshot 2025-12-24 at 12.15.27 AM.png",
-    "Screenshot 2025-12-24 at 12.08.50 AM.png",
-    "Screenshot 2025-12-24 at 12.05.34 AM.png"
+    "Screenshot 2025-12-24 at 12.24.03 AM.png"
   ]
 }

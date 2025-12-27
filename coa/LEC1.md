@@ -3,7 +3,7 @@
 ![[Screenshot 2025-12-24 at 12.05.34 AM.png]]
 
 it has circuitry for both logical and arithmetic operations
-consists of several registers--- types of regs-- general purpose,special,temp
+consists of several registers--- types of regs-- general purpose ,special, temp
 regs are some storage units
 
 During execution, the data/operands are stored in some register, then the operation is carried out and stored in some register.
