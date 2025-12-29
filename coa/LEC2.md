@@ -101,7 +101,20 @@ here r1 and data at loca is addded and putin r1
 ![[Screenshot 2025-12-27 at 7.51.24 PM.png]]
 ![[Screenshot 2025-12-27 at 7.52.00 PM.png]]
 ![[Screenshot 2025-12-27 at 7.56.45 PM.png]]
+pc is incremented by 4 since memory is byte addressed
+### **Byte-addressed memory**
+###  **(MOST COMMON)**
+- Address → **1 byte**
+- Used in **x86, ARM, RISC-V, GPUs**
+- Hence:
+    - 32-bit instruction → PC + 4
+    - 64-bit instruction → PC + 8
+Example memory:
+Address:   1000   1001   1002   1003   1004   1005 ...
+Content:   byte   byte   byte   byte   next instruction ...
 
+if 32 bit instruction:-
+![[Screenshot 2025-12-29 at 7.22.00 PM.png]]
 
 ![[Screenshot 2025-12-27 at 7.57.01 PM.png]]
 ![[Screenshot 2025-12-27 at 7.57.28 PM.png]]
@@ -123,9 +136,8 @@ so they need a pathway, for communication
 
 ### there are buses inside processor like alu talks to registers
 ![[Screenshot 2025-12-27 at 7.40.24 PM.png]]![[Screenshot 2025-12-27 at 7.41.34 PM.png]]
+![[Screenshot 2025-12-27 at 8.03.46 PM.png]]
 
 ### look into multi bus architecture
-
-
-
 ![[Screenshot 2025-12-27 at 7.43.34 PM.png]]
+
